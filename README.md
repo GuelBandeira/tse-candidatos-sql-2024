@@ -4,7 +4,8 @@
 
 Este repositório foi criado para fins educativos e contém uma tabela em SQL gerada a partir dos arquivos de dados de CNPJs fornecidos pelo Tribunal Superior Eleitoral (TSE). A tabela reflete as informações contidas nos arquivos `cnpj_partido_2024.txt` e `cnpj_candidatos_2024.txt`, que serão atualizados conforme novas versões sejam disponibilizadas. 
 
-Todas as informações disponibilizadas neste repositório são públicas e estão acessíveis no próprio site do TSE, podendo ser consultadas por qualquer pessoa interessada.
+Todas as informações disponibilizadas neste repositório são públicas e estão acessíveis no próprio site do TSE, podendo ser consultadas por qualquer pessoa interessada.<br>
+https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2024/resource/47f4ff69-c50a-4c4f-805a-f03336a06cfd 
 
 ## Estrutura da Tabela
 
@@ -64,4 +65,4 @@ Os dados utilizados são extraídos diretamente dos seguintes arquivos de CNPJs 
 Clone o repositório e importe o arquivo SQL para seu banco de dados para realizar consultas utilizando os dados disponíveis.
 
 ```bash
-git clone https://github.com/usuario/repo-candidatos-2024.git
+git clone https://github.com/usuario/repo-candidatos-2024
