@@ -65,4 +65,4 @@ Os dados utilizados são extraídos diretamente dos seguintes arquivos de CNPJs 
 Clone o repositório e importe o arquivo SQL para seu banco de dados para realizar consultas utilizando os dados disponíveis.
 
 ```bash
-git clone https://github.com/GuelBandeira/repo-candidatos-2024
+git clone https://github.com/GuelBandeira/tse-candidatos-sql-2024.git
